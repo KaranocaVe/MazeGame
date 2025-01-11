@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinUIMaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bf53519818ac69ddf521eaa1d2621355f2d0a9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06dfaec99b4761beb16a7f1d7308e23ed930b8c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinUIMaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinUIMaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
