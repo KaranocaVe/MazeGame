@@ -10,6 +10,6 @@
   - 广度优先搜索（BFS）🌐
 
 ## 预览图 📸
-![迷宫游戏示例 1](Preview\1.png)
+![迷宫游戏示例 1](Preview/1.png)
 
-![迷宫游戏示例 2](Preview\2.png)
+![迷宫游戏示例 2](Preview/2.png)
