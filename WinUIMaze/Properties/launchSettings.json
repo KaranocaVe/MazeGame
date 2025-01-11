@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIMaze (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIMaze (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
