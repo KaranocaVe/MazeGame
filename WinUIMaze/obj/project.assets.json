@@ -1570,11 +1570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karan\\OneDrive\\Archive\\UESTC\\大二上\\数据结构与算法\\Experiment\\Maze\\MazeGame\\WinUIMaze\\WinUIMaze.csproj",
+      "projectUniqueName": "C:\\Users\\karan\\OneDrive\\Archive\\UESTC\\大二上\\数据结构与算法\\Experiment\\MazeGame\\WinUIMaze\\WinUIMaze.csproj",
       "projectName": "WinUIMaze",
-      "projectPath": "C:\\Users\\karan\\OneDrive\\Archive\\UESTC\\大二上\\数据结构与算法\\Experiment\\Maze\\MazeGame\\WinUIMaze\\WinUIMaze.csproj",
+      "projectPath": "C:\\Users\\karan\\OneDrive\\Archive\\UESTC\\大二上\\数据结构与算法\\Experiment\\MazeGame\\WinUIMaze\\WinUIMaze.csproj",
       "packagesPath": "C:\\Users\\karan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karan\\OneDrive\\Archive\\UESTC\\大二上\\数据结构与算法\\Experiment\\Maze\\MazeGame\\WinUIMaze\\obj\\",
+      "outputPath": "C:\\Users\\karan\\OneDrive\\Archive\\UESTC\\大二上\\数据结构与算法\\Experiment\\MazeGame\\WinUIMaze\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
